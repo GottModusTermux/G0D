@@ -1,0 +1,63 @@
+Ultimate Linux Terminal on Android 
+ #GottModusTermux <---
+ 
+  SUPERUSER DO !! aka. SUDO
+
+follow the next steps for SUDO
+ >Copy&Paste:
+
+termux-setup-storage
+
+apt update && apt upgrade
+
+apt install git
+
+pkg install ncurses-utils
+
+git clone https://github.com/GottModusTermux/GodToolsTermux.git && cd GodToolsTermux/sudo
+
+apt install fish && fish
+
+cat sudo > /data/data/com.termux/files/usr/bin/sudo
+
+chmod 700 /data/data/com.termux/files/usr/bin/sudo 
+
+exit
+
+sudo
+_________
+
+$import "GodToolsTermux.zip" in your Termux
+
+For example, if the ZIP is in your /0/Download/ folder,
+
+Copy&Paste the next commands:
+
+termux-setup-storage
+
+cd storage/downloads/
+
+cp -f GodToolsTermux.zip $HOME
+
+cd
+
+pkg install zip
+
+unzip G0D.zip && cd G0D-master/sudo
+
+apt update && apt upgrade
+
+pkg install ncurses-utils
+
+apt install fish && fish
+
+cat sudo > /data/data/com.termux/files/usr/bin/sudo
+
+chmod 700 /data/data/com.termux/files/usr/bin/sudo
+
+exit
+
+sudo
+
+____
+#GottModusTermux
