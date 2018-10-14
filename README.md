@@ -33,7 +33,7 @@ exit
 
 sudo
 
-$import "G0D.zip" in your Termux
+$import "G0D-master.zip" in your Termux
 
 For example, if the ZIP is in your /0/Download/ folder,
 
@@ -43,13 +43,13 @@ termux-setup-storage
 
 cd storage/downloads/
 
-cp -f G0D.zip $HOME
+cp -f G0D-master.zip $HOME
 
 cd
 
 pkg install zip
 
-unzip G0D.zip && cd G0D/sudo
+unzip G0D-master.zip && cd G0D-master/sudo
 
 apt update && apt upgrade
 
