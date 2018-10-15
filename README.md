@@ -21,9 +21,13 @@ apt install git
 
 pkg install ncurses-utils
 
-git clone https://github.com/GottModusTermux/G0D.git && cd G0D/sudo
+git clone https://github.com/GottModusTermux/G0D.git 
 
-apt install fish && fish
+cd G0D/sudo
+
+apt install fish 
+
+fish
 
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
@@ -49,7 +53,9 @@ cd
 
 pkg install zip
 
-unzip G0D-master.zip && cd G0D-master/sudo
+unzip G0D-master.zip 
+
+cd G0D-master/sudo
 
 apt update && apt upgrade
 
