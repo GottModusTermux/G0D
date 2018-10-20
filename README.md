@@ -13,27 +13,27 @@ follow the next steps for SUDO**
 
 # Copy&Paste the next commandos:
 
-termux-setup-storage
+> termux-setup-storage
 
-apt update -y && apt upgrade -y
+> apt update -y && apt upgrade -y
 
-apt install git -y
+> apt install git -y
 
-pkg install ncurses-utils
+> pkg install ncurses-utils
 
-git clone https://github.com/GottModusTermux/G0D.git 
+> git clone https://github.com/GottModusTermux/G0D.git 
 
-cd G0D/sudo
+> cd G0D/sudo
 
-apt install fish -y && fish
+> apt install fish -y && fish
 
-cat sudo > /data/data/com.termux/files/usr/bin/sudo
+> cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
-chmod 700 /data/data/com.termux/files/usr/bin/sudo
+> chmod 700 /data/data/com.termux/files/usr/bin/sudo
 
-exit
+> exit
 
-sudo
+> sudo
 
 # $import "G0D-master.zip" in your Termux
 
@@ -41,33 +41,33 @@ For example, if the ZIP is in your /0/Download/ folder,
 
 # Copy&Paste the next commands:
 
-termux-setup-storage
+> termux-setup-storage
 
-cd storage/downloads/
+> cd storage/downloads/
 
-cp -f G0D-master.zip $HOME
+> cp -f G0D-master.zip $HOME
 
-cd
+> cd
 
-pkg install zip -y
+> pkg install zip -y
 
-unzip G0D-master.zip 
+> unzip G0D-master.zip 
 
-cd G0D-master/sudo
+> cd G0D-master/sudo
 
-apt update -y && apt upgrade -y
+> apt update -y && apt upgrade -y
 
-pkg install ncurses-utils
+> pkg install ncurses-utils
 
-apt install fish -y && fish
+> apt install fish -y && fish
 
-cat sudo > /data/data/com.termux/files/usr/bin/sudo
+> cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
-chmod 700 /data/data/com.termux/files/usr/bin/sudo
+> chmod 700 /data/data/com.termux/files/usr/bin/sudo
 
-exit
+> exit
 
-sudo
+> sudo
 
 # #GottModusTermux
 
