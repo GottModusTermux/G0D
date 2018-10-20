@@ -18,6 +18,7 @@ Teilen Sie Ihre Links über das Internet und schappen Sie sich die Login-daten
 6. chmod 777 ngrok
 7. ./ngrok
 8. ./ngrok authtoken 844ZM.... [kopiere den Orginal Code der dir angezeigt wird, sobald du dich eingelogt hast]
+
  zu 8.: dieser schritt ist nicht unbedingt notwendig
 
 # Installieren
