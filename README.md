@@ -27,8 +27,6 @@ cd G0D/sudo
 
 apt install fish -y && fish
 
-fish
-
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
