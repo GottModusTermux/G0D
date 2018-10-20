@@ -3,15 +3,15 @@ all for full Termux
 Ultimate Linux Terminal on Android
 
 GottModusTermux <---
-SUPERUSER DO !! aka. SUDO** first install sudo before we run more programs & tools
+# SUPERUSER DO !! aka. SUDO** first install sudo before we run more programs & tools
 
 SUDO not full work on Magisk !! Root your smartphone with SuperSU
 
 follow the next steps for SUDO**
 
-$download& install via GitHub (without ZIP)
+# $download& install via GitHub (without ZIP)
 
-Copy&Paste the next commandos:
+# Copy&Paste the next commandos:
 
 termux-setup-storage
 
@@ -37,11 +37,11 @@ exit
 
 sudo
 
-$import "G0D-master.zip" in your Termux
+# $import "G0D-master.zip" in your Termux
 
 For example, if the ZIP is in your /0/Download/ folder,
 
-Copy&Paste the next commands:
+# Copy&Paste the next commands:
 
 termux-setup-storage
 
@@ -71,7 +71,7 @@ exit
 
 sudo
 
-#GottModusTermux
+# #GottModusTermux
 
 SUDO** (superuser do) is a utility for UNIX- and Linux-based systems
 
