@@ -101,8 +101,10 @@ Beispiel:
 "https://denLinkKopieren.ngrok.io -> localhost:8080
 
 sobald das Opfer seine Login-Daten eingegeben hat, 
-können Sie seine E-Mail-ID und sein Passwort bei dem Termux Fenster "weeman" sehen
+können Sie seine E-Mail-ID und sein Passwort in dem Termux Fenster "weeman" einsehen
+(hochscrollen und "user: " | "pass: "suchen)
 
+sobald "ngrok" beendet wird, ist der erstellte Link nicht mehr erreichbar !! 
 
 
 HTTP server for phishing in python.
