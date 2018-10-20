@@ -19,7 +19,10 @@ Teilen Sie Ihre Links über das Internet und schappen Sie sich die Login-daten
 7. > ./ngrok
 8. > ./ngrok authtoken 844ZM.... [kopiere den Orginal Code der dir angezeigt wird, sobald du dich eingelogt hast]
 
- zu 8.: dieser schritt ist nicht unbedingt notwendig
+ zu 8.: ohne Authentifizierungs-Token läuft der Server bei NGROK max. 8h !!
+        meldest Sie sich auf https://ngrok.com/ an und loggen Sie sich ein,
+        um den Authentifizierungs-Token zu erhalten
+        den Sie einfach in Termux einfügen
 
 # Installieren
 
