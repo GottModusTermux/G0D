@@ -25,13 +25,16 @@ Teilen Sie Ihre Links über das Internet und schappen Sie sich die Login-daten
 
 TIPPE
 
+
   apt update && apt upgrade
 
 dann TIPPE
 
+
   pkg install git
 
 kopieren den folgenden Link
+
 
   git clone https://github.com/GottModusTermux/G0D
 
@@ -49,16 +52,20 @@ kopieren den folgenden Link
 
 nach dem Start folgende befehle
 
-Befehl 1 
+-Befehl 1 
+
   set url yoursite.com
 
-Befehl 2 
+-Befehl 2 
+
   set port 8080
 
-Befehl 3 
+-Befehl 3 
+
   set action_url yoursite.com
   
-Befehl 4
+-Befehl 4
+
   run
   
 Nun öffnet ihr einen Browser und sucht
@@ -66,7 +73,8 @@ LOCALHOST:8080 oder 127.0.0.1:8080.
 
 # ERÖFFNE EINE FACEBOOK-PHISHING SEITE.
 
-TIPPE
+-TIPPE
+
   cd G0D/weeman
 
   python2 weeman.py
@@ -99,18 +107,3 @@ können Sie seine E-Mail-ID und sein Passwort bei dem Termux Fenster "weeman" se
 
 HTTP server for phishing in python.
 Version 1.7.1 is the last and latest version for weeman.
-
-# Requirements
-
-* Python 2.7
-
-# Platforms
-
-* Linux
-* Mac
-
-# Copying
-
-See 'LICENSE' and lib/bs4/COPYING.txt
-
-
