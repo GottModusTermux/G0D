@@ -34,6 +34,7 @@ follow the next steps for SUDO**
 > exit
 
 > sudo
+____
 
 # $import "G0D-master.zip" in your Termux
 
