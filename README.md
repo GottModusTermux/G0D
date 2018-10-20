@@ -21,9 +21,7 @@ follow the next steps for SUDO**
 
 > pkg install ncurses-utils
 
-> git clone https://github.com/GottModusTermux/G0D.git 
-
-> cd G0D/sudo
+> git clone https://github.com/GottModusTermux/G0D.git && cd G0D/sudo
 
 > apt install fish -y && fish
 
