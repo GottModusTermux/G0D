@@ -15,9 +15,9 @@ follow the next steps for SUDO**
 
 termux-setup-storage
 
-apt update && apt upgrade
+apt update -y && apt upgrade -y
 
-apt install git
+apt install git -y
 
 pkg install ncurses-utils
 
@@ -25,7 +25,7 @@ git clone https://github.com/GottModusTermux/G0D.git 
 
 cd G0D/sudo
 
-apt install fish 
+apt install fish -y && fish
 
 fish
 
@@ -51,17 +51,17 @@ cp -f G0D-master.zip $HOME
 
 cd
 
-pkg install zip
+pkg install zip -y
 
 unzip G0D-master.zip 
 
 cd G0D-master/sudo
 
-apt update && apt upgrade
+apt update -y && apt upgrade -y
 
 pkg install ncurses-utils
 
-apt install fish && fish
+apt install fish -y && fish
 
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
