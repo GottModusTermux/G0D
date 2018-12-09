@@ -2,6 +2,9 @@
 all for full Termux
 Ultimate Linux Terminal on Android
 
+# https://t.me/joinchat/KCZWlxJt2j87ZuuXLocKSA
+Termux Telegram Gruppe GER-Unterstützung 
+
 GottModusTermux <---
 # SUPERUSER DO !! aka. SUDO** first install sudo before we run more programs & tools
 
