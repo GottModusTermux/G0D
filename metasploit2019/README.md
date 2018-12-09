@@ -4,6 +4,8 @@
 
   pkg install unzip -y
 
+  cd G0D/metasploit2019/
+
   unzip metasploit.zip
 
   cd metasploit
