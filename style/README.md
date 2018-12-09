@@ -21,6 +21,13 @@ schon wird es dir bei jedem Start als Titel-logo angezeigt
 
 "Wlcome to Termux.. pkg search .. pkg upgrade/update"
 ...dieser Text wird mit deinem ersetzt ;)
+
+Hier hab ich euch mal ein Video hochgeladen,
+wie das ganze durchgeführt wird, 
+und wie es dann aussehen wird.
+
+>https://www.youtube.com/watch?v=xzL-B5poIv4&t=57s&app=desktop
+
 __________
 # https://t.me/joinchat/KCZWlxJt2j87ZuuXLocKSA
  >Termux Telegram Gruppe GER-Unterstützung 
