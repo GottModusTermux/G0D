@@ -14,7 +14,7 @@
 - nano bash.bashrc
  
 die folgende Zeile des geöffneten Dokuments (nano bash.bashrc) einfügen:
-  figlet -f schräg ...
+  figlet -f slant ...
  
 Punkte [...] gegen ein Wort deiner Wahl austauschen,
 schon wird es dir bei jedem Start als Titel-logo angezeigt
