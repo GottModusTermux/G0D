@@ -8,8 +8,8 @@ folgende befehle:
 
     pkg install tsu -y
     cd G0D/ezsploit/
-    tsu
     chmod +x *
+    tsu
     bash ezsploit.sh
 
 __________
@@ -27,4 +27,7 @@ To-Do
 
 Add more functions to payloads/listners, java, php, tomcat etc
 
-Improve overall functionality 
+Improve overall functionality
+
+# https://t.me/joinchat/KCZWlxJt2j87ZuuXLocKSA
+>Termux Telegram Gruppe GER-Unterstützung 
