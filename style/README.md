@@ -19,7 +19,7 @@ die folgende Zeile des geöffneten Dokuments (nano bash.bashrc) einfügen:
 Punkte [...] gegen ein Wort deiner Wahl austauschen,
 schon wird es dir bei jedem Start als Titel-logo angezeigt
 
-"Wlcome to Termux.. pkg search .. pkg upgrade/update"
+"Welcome to Termux.. pkg search .. pkg upgrade/update"
 ...dieser Text wird mit deinem ersetzt ;)
 
 Hier hab ich euch mal ein Video hochgeladen,
