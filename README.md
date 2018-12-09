@@ -4,15 +4,21 @@ Ultimate Linux Terminal on Android
 
 # https://t.me/joinchat/KCZWlxJt2j87ZuuXLocKSA
 Termux Telegram Gruppe GER-Unterstützung 
-_____
-  >Alpine         = miniOS for Termux | 
-  >VirusMaker2019 = "Malicious" best virus downloader
-                   (for MacOS,LinuxAndroid,Windows) | 
-  >ezsploit       = one easy way to create payload | 
-  >metasploit2019 = metasploit installer TuT for Dummies | 
-  >style          = make your Termux to YOUR Termux | 
-^ >sudo           = "superuser do" install first |
-  >weeman +ngrok  = ultimate phishing tools
+
+ Alpine         = miniOS for Termux . 
+ 
+ VirusMaker2019 = "Malicious" best virus downloader(for MacOS,LinuxAndroid,Windows) .  
+ 
+  ezsploit       = one easy way to create payload . 
+  
+  metasploit2019 = metasploit installer TuT for Dummies .  
+  
+  style          = make your Termux to YOUR Termux .  
+  
+! sudo           = "superuser do" install first ! root is in "sudo", but no "sudo"is in "root"
+
+
+  weeman +ngrok  = ultimate phishing tools . 
  __________ 
 
 GottModusTermux <---
