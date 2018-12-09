@@ -24,7 +24,7 @@ schon wird es dir bei jedem Start als Titel-logo angezeigt
 
 Hier hab ich euch mal ein Video hochgeladen,
 wie das ganze durchgeführt wird, 
-und wie es dann aussehen wird.
+und wie das ganze dann aussieht.
 
 >https://www.youtube.com/watch?v=xzL-B5poIv4&t=57s&app=desktop
 
