@@ -15,6 +15,7 @@
  
 die folgende Zeile des geöffneten Dokuments (nano bash.bashrc) einfügen:
   figlet -f slant ...
+  PS1='\033[1;91mroot@termux[\033[1;93m\W\033[1;91m]: \033[1;92m' 
  
 Punkte [...] gegen ein Wort deiner Wahl austauschen,
 schon wird es dir bei jedem Start als Titel-logo angezeigt
