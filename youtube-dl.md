@@ -6,18 +6,29 @@ _______
 Type or copy these commands one by one
 _________
 
-# wget https://pastebin.com/DnTWgxZp -O install.sh
+# apt update && apt -y upgrade
 
-# dos2unix install.sh
+# termux-setup-storage
 
-# chmod u+x install.sh
+# pkg install -y python
 
-# ./install.sh
-
-# apt update && apt install python
+# pkg install -y python2
 
 # pip install youtube-dl
 
+# mkdir ~/storage/shared/youtube
+
+# mkdir -p ~/.config/youtube-dl
+
+# pkg install -y ffmpeg
+
+# mkdir ~/bin
+
+# wget http://pastebin.com/raw/DVVjQMfZ -O ~/bin/termux-url-opener
+
+# dos2unix ~/bin/termux-url-opener
+
+
 teile youtube videos jetzt mit termux,
 und du kannst dir aussuchen in welcher ausflösung du das video bekommst
-(nur mp3 ist auch möglich)
+(nur mp3 und bis zu 4k sind möglich !!)
