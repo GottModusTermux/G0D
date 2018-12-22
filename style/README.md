@@ -14,7 +14,9 @@
 - nano bash.bashrc
  
 die folgende Zeile des geöffneten Dokuments (nano bash.bashrc) einfügen:
+ 
   figlet -f slant ...
+  
   PS1='\033[1;91mroot@termux[\033[1;93m\W\033[1;91m]: \033[1;92m' 
  
 Punkte [...] gegen ein Wort deiner Wahl austauschen,
@@ -22,6 +24,8 @@ schon wird es dir bei jedem Start als Titel-logo angezeigt
 
 "Welcome to Termux.. pkg search .. pkg upgrade/update"
 ...dieser Text wird mit deinem ersetzt ;)
+Allgemein ändern sich nun auch die farben vom Interface
+(schriften, ordner
 
 Hier hab ich euch mal ein Video hochgeladen,
 wie das ganze durchgeführt wird, 
