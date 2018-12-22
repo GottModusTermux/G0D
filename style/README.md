@@ -19,7 +19,7 @@
  
  - ls -a
  
-(- rm motd) nur wenn du dich für den ersten style entscheidest
+ - rm motd
  
  - nano bash.bashrc
  
