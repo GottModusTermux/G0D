@@ -17,9 +17,9 @@ eines der folgenden Zeilen in das geöffnete Dokument
 (nano bash.bashrc) einfügen:
 -es sollte nur einer von den drei codes genutzt werden !!
  
- +1. figlet -f slant $$$$
- +2. toilet $$$$ --metal  
- +3. PS1='\033[1;91mroot@$$$$[\033[1;93m\W\033[1;91m]: \033[1;92m' 
+ >1. figlet -f slant $$$$  <-- kursive Blockbuchstaben
+ >2. toilet $$$$ --metal   
+ >3. PS1='\033[1;91mroot@$$$$[\033[1;93m\W\033[1;91m]: \033[1;92m' 
  
 die Geldzeichen [$$$$] gegen ein Wort deiner Wahl austauschen,
 schon wird es dir bei jedem Start als Titel-logo angezeigt
