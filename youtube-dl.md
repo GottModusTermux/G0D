@@ -6,7 +6,7 @@ _______
 Type or copy these commands one by one
 _________
 
-# wget http://pastebin.com/raw/W1nvzN6q -O install.sh
+# wget https://pastebin.com/DnTWgxZp -O install.sh
 
 # dos2unix install.sh
 
