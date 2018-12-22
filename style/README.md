@@ -1,17 +1,28 @@
 
  >GitHub: https://github.com/GottModusTermux/
  
-- cd G0D
-- cp bash.zip $HOME && cd
-- ls
-- unzip bash.zip
-- pkg install nano -y && pkg install figlet -y && pkg install toilet
-- cd ..
-- ls
-- cd usr/etc
-- ls -a
-- rm motd
-- nano bash.bashrc
+ - cd G0D
+ 
+ - cp bash.zip $HOME && cd
+ 
+ - ls
+ 
+ - unzip bash.zip
+ 
+ - pkg install nano -y && pkg install figlet -y && pkg install toilet
+ 
+ - cd ..
+ 
+ - ls
+ 
+ - cd usr/etc
+ 
+ - ls -a
+ 
+(- rm motd) nur wenn du dich für den ersten style entscheidest
+ 
+ - nano bash.bashrc
+ 
  
 eines der folgenden Zeilen in das geöffnete Dokument 
 (nano bash.bashrc) einfügen:
