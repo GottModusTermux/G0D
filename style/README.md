@@ -5,7 +5,7 @@
 - cp bash.zip $HOME && cd
 - ls
 - unzip bash.zip
-- pkg install nano -y && pkg install figlet
+- pkg install nano -y && pkg install figlet -y && pkg install toilet
 - cd ..
 - ls
 - cd usr/etc
@@ -13,13 +13,15 @@
 - rm motd
 - nano bash.bashrc
  
-die folgende Zeile des geöffneten Dokuments (nano bash.bashrc) einfügen:
+eines der folgenden Zeilen in das geöffnete Dokument 
+(nano bash.bashrc) einfügen:
+-es sollte nur einer von den drei codes genutzt werden !!
  
-  figlet -f slant ...
-  
-  PS1='\033[1;91mroot@termux[\033[1;93m\W\033[1;91m]: \033[1;92m' 
+ +1. figlet -f slant $$$$
+ +2. toilet $$$$ --metal  
+ +3. PS1='\033[1;91mroot@$$$$[\033[1;93m\W\033[1;91m]: \033[1;92m' 
  
-Punkte [...] gegen ein Wort deiner Wahl austauschen,
+die Geldzeichen [$$$$] gegen ein Wort deiner Wahl austauschen,
 schon wird es dir bei jedem Start als Titel-logo angezeigt
 
 "Welcome to Termux.. pkg search .. pkg upgrade/update"
