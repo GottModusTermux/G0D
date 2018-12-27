@@ -10,7 +10,7 @@ reset='\033[0m'
 apt-get upgrade -y
 apt-get update
 printf "$red"
-echo "Ihr müsst gleich.."
+echo "Du musst gleich.."
 echo "auf >Zulassen< klicken !!"
 printf "$reset"
 
@@ -29,6 +29,7 @@ echo "GottModusTermux macht das schon"
 echo ".. keine sorge ;D"
 sleep 2
 
+echo
 echo "Jetzt gehts los.."
 sleep 3
 echo "in 3.."
@@ -65,12 +66,20 @@ echo "sudo ist nun einsatz bereit !!"
 sleep 2
 echo "als letztes testen wir noch sudo"
 printf "$reset"
+echo
+printf "$red"
+echo
+echo "DU MUSST"
+echo "TERMUX"
+echo "ROOT-RECHTE"
+echo "GEBEN !!"
+printf "$reset"
 
-sleep 2
+sleep 5
 
 sudo
 
-sleep 3
+sleep 7
 
 echo "alles gut ? okaay weiter gehts ;D"
 
@@ -84,7 +93,7 @@ sleep 1
 echo "videos bis zu 4K downloaden !!"
 printf "$reset"
 
-sleep 2
+sleep 4
 
 pkg install python -y
 pkg install python2 -y
