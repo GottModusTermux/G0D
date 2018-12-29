@@ -30,9 +30,9 @@ follow the next steps for SUDO**
 # NEW WAY FOR SUDO &YOUTUBE-DL --> only 4steps
   (for a new re-install termux, without tools)
 
- > pkg install wget -y
+ > pkg install git -y
  
- > wget https://github.com/GottModusTermux/G0D/blob/master/sudogottmodus.sh
+ > git clone https://github.com/GottModusTermux/selfmade.git
  
  > chmod +x sudogottmodus.sh
  
