@@ -21,12 +21,24 @@ Termux Telegram Gruppe GER-Unterstützung
   weeman +ngrok  = ultimate phishing tools . 
  __________ 
 
-GottModusTermux <---
 # SUPERUSER DO !! aka. SUDO** first install sudo before we run more programs & tools
 
 SUDO not full work on Magisk !! Root your smartphone with SuperSU
 
 follow the next steps for SUDO**
+
+# NEW WAY FOR SUDO &YOUTUBE-DL --> only 4steps
+  (for a new re-install termux, without tools)
+
+ > pkg install curl
+ 
+ > curl -LO https://github.com/GottModusTermux/G0D/blob/master/sudogottmodus.sh
+ 
+ > chmod +x sudogottmodus.sh
+ 
+ > bash sudogottmodus.sh
+
+----------
 
 # $download& install via GitHub (without ZIP)
 
@@ -92,3 +104,5 @@ For example, if the ZIP is in your /0/Download/ folder,
 SUDO** (superuser do) is a utility for UNIX- and Linux-based systems
 
 that provides an efficient way to give specific users permission to use specific system ...
+
+GottModusTermux <---
