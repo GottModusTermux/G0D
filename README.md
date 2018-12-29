@@ -32,7 +32,7 @@ follow the next steps for SUDO**
 
  > pkg install git -y
  
- > git clone https://github.com/GottModusTermux/selfmade.git
+ > git clone https://github.com/GottModusTermux/selfmade.git && cd selfmade
  
  > chmod +x sudogottmodus.sh
  
