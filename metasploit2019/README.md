@@ -10,6 +10,12 @@
 
   cd metasploit
 
+  pip install bundler 
+  
+  pip install bundle 
+  
+  gem install bundler 
+
   chmod +x * 
 
   bash metasploit.sh
