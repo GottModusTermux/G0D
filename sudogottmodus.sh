@@ -81,44 +81,11 @@ sudo
 
 sleep 7
 
-echo "alles gut ? okaay weiter gehts ;D"
+echo "alles gut ? okaay das wars ;D"
 
 sleep 2
 
 printf "$red"
-echo "wir starten nun die.."
-sleep 2
-echo "..>youtube-dl< installertion!!"
-sleep 1
-echo "videos bis zu 4K downloaden !!"
-printf "$reset"
-
-sleep 4
-
-pkg install python -y
-pkg install python2 -y
-
-pip2 install --upgrade pip
-pip install youtube-dl
-
-mkdir ~/storage/shared/youtube
-mkdir -p ~/.config/youtube-dl
-
-pkg install ffmpeg -y
-
-mkdir ~/bin
-
-wget http://pastebin.com/raw/DVVjQMfZ -O ~/bin/termux-url-opener
-
-dos2unix ~/bin/termux-url-opener
-
-printf "$yellow"
-echo "teile nun deine lieblings videos,"
-sleep 1
-echo "von youtube mit termux"
-sleep 1
-echo "und wähle deine quallität aus"
-sleep 3
 echo "und jetzt bin ich auch schon weg.."
 sleep 2
 echo "besucht meine github seite !"
