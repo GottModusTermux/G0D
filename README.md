@@ -2,8 +2,9 @@
 all for full Termux
 Ultimate Linux Terminal on Android
 
-# https://t.me/joinchat/KCZWlxJt2j87ZuuXLocKSA
-Termux Telegram Gruppe GER-Unterstützung 
+# https://youtu.be/YK9D5IPNU_o
+Update Januar 2020 !!
+install (fast) sudo on Termux for a "full Linux Terminal"
 
  Alpine         = miniOS for Termux . 
  
