@@ -28,17 +28,6 @@ SUDO not full work on Magisk !! Root your smartphone with SuperSU
 
 follow the next steps for SUDO**
 
-# NEW WAY FOR SUDO &YOUTUBE-DL --> only 4steps
-  (for a new re-install termux, without tools)
-
- > pkg install git -y
- 
- > git clone https://github.com/GottModusTermux/selfmade.git && cd selfmade
- 
- > chmod +x sudogottmodus.sh
- 
- > bash sudogottmodus.sh
-
 ----------
 
 # $download& install via GitHub (without ZIP)
