@@ -40,6 +40,9 @@ printf "$reset"
 sleep 3
 
 clear
+echo
+echo
+echo
 
 printf "$red"
 echo "Gratulation.."
@@ -48,10 +51,14 @@ echo
 echo
 echo "Mütter wurden erfolgreich gefickt"
 sleep 3
+echo
+echo
+echo
 echo "MutterFick prozess erfolgreich durchgefürht !!"
 printf "$reset"
-
+sleep 7
 clear
+
 ls
 
 exit
