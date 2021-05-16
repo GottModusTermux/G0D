@@ -96,3 +96,7 @@ SUDO** (superuser do) is a utility for UNIX- and Linux-based systems
 that provides an efficient way to give specific users permission to use specific system ...
 
 GottModusTermux <---
+
+
+arl for freezer:
+9d9946763d3f5160bc70ef45013475470f2d33b4dbf52cdd4b0b15c2c2226f357e684b354bbe174292b37b03e127fb434ffffad7e3b8bccfe89e3b4c747de42b93985b137461ce6cccf2a13d52b98ded5fe2de6b19fb50f4f220d682a7b07a74
